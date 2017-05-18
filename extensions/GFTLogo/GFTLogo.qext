@@ -1,0 +1,16 @@
+{
+	"name": "GFTLogo",
+	"description": "GFT Logo",
+	"type": "visualization",
+	"version": "1.0.0",
+	"icon": "extension",
+	"preview": "GFT.png",
+	"author": "",
+	"homepage": "",
+	"keywords": "qlik-sense, visualization",
+	"license": "",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
